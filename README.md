@@ -9,7 +9,8 @@ This seminar is based on the research paper:
 
 **"Revolutionizing Cybersecurity: Implementing Large Language Models as Dynamic SOAR Tools"**  
 Author: Anthony Russo  
-Published by SANS.edu  December 5, 2024
+Published by SANS.edu           December 5, 2024
+
 Paper Link : *[https://www.sans.org/white-papers/revolutionizing-cybersecurity-implementing-large-language-models-dynamic-soar-tools/]*
 
 All rights and credit belong to the original author. This repository is for educational and non-commercial purposes only.
