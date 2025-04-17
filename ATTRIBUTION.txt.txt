@@ -1,0 +1,9 @@
+This project is inspired by the paper:
+"Revolutionizing Cybersecurity: Implementing Large Language Models as Dynamic SOAR Tools"
+Author: Anthony Russo
+
+Used here for academic purposes under fair use.  
+No ownership of the original work is claimed.  
+All source content remains the intellectual property of its original author.
+
+If you are the author and wish to have content removed or modified, please contact me.
