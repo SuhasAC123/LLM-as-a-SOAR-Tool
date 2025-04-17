@@ -15,4 +15,7 @@ Paper Link : *[https://www.sans.org/white-papers/revolutionizing-cybersecurity-i
 
 All rights and credit belong to the original author. This repository is for educational and non-commercial purposes only.
 
+## License
+This repository is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).  
+You are free to use, share, and adapt the material for non-commercial purposes with proper attribution.
 
